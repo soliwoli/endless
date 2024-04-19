@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 161,
+    "name": "Frame Of Mind",
+    "author": "Elysium",
+    "creators": ["elysium"],
+    "verifier": "elysium",
+    "verification": "https://www.youtube.com/watch?v=",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
     "records": [
+        {
+            "user": "None",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 0,
+            "hz": 0
+        }
     ]
 }
