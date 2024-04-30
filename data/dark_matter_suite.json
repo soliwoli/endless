@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=cexWM8ACp1U&t",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+          "user": "Xanuran",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }
