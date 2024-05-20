@@ -106,10 +106,10 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Clicks must be audible/visible or both. If neither of those criteria are met, the record cannot be accepted.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording should preferrably have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. This is just so that the list staff have an easier time reviewing the record.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
