@@ -1,15 +1,15 @@
 {
     "id": 240,
     "name": "Konga Time",
-    "author": "WizardOfFrogs",
-    "creators": ["MauveDash", "Marhz", "WizardOfFrogs"],
-    "verifier": "WizardOfFrogs",
+    "author": "Wizard Of Frogs",
+    "creators": ["MauveDash", "Marhz", "Wizard Of Frogs"],
+    "verifier": "Wizard Of Frogs",
     "verification": "https://www.youtube.com/watch?v=J9_8J6q_4Mg",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "WizardOfFrogs",
+            "user": "MauveDash",
             "link": "https://www.youtube.com/watch?v=nQFq5PbrZh0",
             "percent": 100,
             "hz": 60
