@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "0859",
     "records": [
+        {
+            "user": "Mathey",
+            "link": "https://youtu.be/1BfoPDFtYOI?si=58gtsu-zO8pSwop3",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
